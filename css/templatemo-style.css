@@ -771,7 +771,7 @@
 
   .footer-open-hour {
     background: #ff4400;
-    background: url('../images/footer-open-hour-bg.jpg') center center no-repeat;
+    background: url('../images/footer-open-hour-bg.webp') center center no-repeat;
     background-size: cover;
     border-radius: 20px;
     margin-top: 0;
